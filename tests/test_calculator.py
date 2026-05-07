@@ -1,7 +1,7 @@
 from app.calculator import add,subtract
 
 ...
- from app -> folder
+from app -> folder
 calculator -> FileName
 import add,subtract (functions)
 ...
