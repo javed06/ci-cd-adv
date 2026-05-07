@@ -1,11 +1,5 @@
 from app.calculator import add,subtract
 
-...
-from app -> folder
-calculator -> FileName
-import add,subtract (functions)
-...
-
 def test_add():
   assert add(2,3) ==5
 
